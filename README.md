@@ -1,0 +1,2 @@
+gradle-sync-pom-plugin
+======================
